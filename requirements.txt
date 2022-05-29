@@ -1,0 +1,8 @@
+python 3.8.5
+opencv-python
+typing_extensions
+pillow
+tkinter
+mysql.connector
+
+
